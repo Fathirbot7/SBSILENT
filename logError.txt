@@ -1,0 +1,6 @@
+
+[ Rabu, 31 - Oktober - 2018 | 23:16:12 ] dictionary changed size during iteration
+[ Rabu, 31 - Oktober - 2018 | 23:19:23 ] name 'lineMID' is not defined
+[ Rabu, 31 - Oktober - 2018 | 23:23:29 ] dictionary changed size during iteration
+[ Rabu, 31 - Oktober - 2018 | 23:43:09 ] dictionary changed size during iteration
+[ Rabu, 31 - Oktober - 2018 | 23:46:45 ] dictionary changed size during iteration
